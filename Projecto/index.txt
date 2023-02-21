@@ -1,0 +1,78 @@
+DIVISÃO
+
+Miguel:
+	Project Charter
+	Stakeholders
+
+Manel
+	Scope
+		Requirements ver
+		Define scope
+		WBS
+
+Rúbens
+	6 - MS Project
+	7  - Budget
+
+Melo
+	-Plan Quality: 8
+	-Communications Plan
+
+-----------------------------------------------------------------------------------------------------------
+Lembrar!!!:
+
+•Objectives
+• Stakeholder’s framework
+	o Entidades internas e externas
+• Requirements
+• Quality Control
+• Risk assessment and contingency plan
+• Communication Plan
+• WBS
+• Resource Allocation
+• Cost analysis
+	o Three diferente categories of people: 
+		§ 50€/hour
+		§ 75€/hour
+		§ 100€/hour
+o Equipment and Installation costs (no need to provide a deep
+justificatio).
+• Responsability Matrix
+• Gantt chart
+• Pert diagram
+
+-----------------------------------------------------------------------------------------------------------
+
+Proposta de Indice
+
+1. Project Charter
+	-Project statement of work
+	-Business case
+	-Contract
+	-Enterprise envoiremental factors
+	-Organizational process assets
+
+2. Stakeholders
+	-Project charter
+	-Procurement documents
+	-Enterprise envoiremental factors
+	-Organizational process assets
+
+	Tools:
+	-Stakeholder analisys
+	-Expert Judgement
+	-Meetings
+	
+3. Develop Project Management Plan
+	-Project charter
+	-Outputs from planning processes
+	-Enterprise envoiremental factors
+	-Organizational process assets
+
+4. Collect Requirements
+	-Project charter
+	-Stakeholder register
+	-Traceability Matrix
+
+
+
